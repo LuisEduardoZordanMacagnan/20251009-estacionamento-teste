@@ -1,4 +1,5 @@
-import java.time.Duration;
+package teste;
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -51,7 +52,7 @@ public class TicketController {
                 return t;
             }
         }
-        throw  new Exception("Ticket "+uuid+" não encontrado");
+        throw  new Exception("modelo.Ticket "+uuid+" não encontrado");
     }
 
     public static Double calculaValor(String uuid) throws Exception {

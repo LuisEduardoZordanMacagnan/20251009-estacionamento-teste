@@ -1,9 +1,9 @@
+package teste;
+
 import lombok.*;
-import lombok.experimental.SuperBuilder;
 
 import java.time.Duration;
 import java.time.LocalDateTime;
-import java.time.temporal.TemporalUnit;
 import java.util.UUID;
 
 
