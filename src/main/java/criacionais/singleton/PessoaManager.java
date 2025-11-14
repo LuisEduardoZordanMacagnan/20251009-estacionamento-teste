@@ -1,4 +1,4 @@
-package singleton;
+package criacionais.singleton;
 
 import java.util.ArrayList;
 

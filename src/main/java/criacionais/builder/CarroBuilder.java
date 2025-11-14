@@ -1,4 +1,4 @@
-package builder;
+package criacionais.builder;
 
 public class CarroBuilder {
     private Carro instance = new Carro();

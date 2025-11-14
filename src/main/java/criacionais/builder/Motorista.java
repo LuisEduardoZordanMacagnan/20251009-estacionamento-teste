@@ -1,4 +1,4 @@
-package builder;
+package criacionais.builder;
 
 import lombok.Data;
 

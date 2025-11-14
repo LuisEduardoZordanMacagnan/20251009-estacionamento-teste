@@ -1,4 +1,4 @@
-package singleton;
+package criacionais.singleton;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package teste;
+package criacionais.teste;
 
 import lombok.*;
 
